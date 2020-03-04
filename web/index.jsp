@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     
-    Author     : Jarol M
+    Author     : Jarol Mmmmm
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
